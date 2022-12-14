@@ -1,0 +1,9 @@
+echo "# History-s-" >> README.md
+git init
+git add amit .md 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/583amit/History-s-.git
+git push -u origin main
+git read," History-s *all:/
+git add ^donate money;:
